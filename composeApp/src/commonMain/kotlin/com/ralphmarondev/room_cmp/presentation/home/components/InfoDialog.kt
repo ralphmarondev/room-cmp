@@ -1,4 +1,4 @@
-package com.ralphmarondev.room_cmp
+package com.ralphmarondev.room_cmp.presentation.home.components
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
